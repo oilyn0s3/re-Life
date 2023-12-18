@@ -4,7 +4,7 @@ import random
 from simpletransformers.language_generation import LanguageGenerationModel
 import discord
 
-TOKEN = 'MTA0MDEyMzcwMTc4MzQyOTEyMQ.GZqkg8.ioMu3DBM1e8vKb4vm7Az91sA-Y2RG6XLDpH-yk' 
+TOKEN = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa' 
 PATH_TO_MODEL = "models/best_model/" 
 DEDICATED_CHANNEL_NAME = 'general' 
 
